@@ -36,7 +36,7 @@ server:
   
  
   rabbitmq:
-    host: 192.168.159.134
+    host: 192.168.159.133
     port: 5672
     username: admin
     password: admin
